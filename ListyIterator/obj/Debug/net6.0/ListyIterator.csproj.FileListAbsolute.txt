@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/bin/Debug/net6.0/ListyIterator
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/bin/Debug/net6.0/ListyIterator.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/bin/Debug/net6.0/ListyIterator.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/bin/Debug/net6.0/ListyIterator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/bin/Debug/net6.0/ListyIterator.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/refint/ListyIterator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ListyIterator.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ListyIterator/obj/Debug/net6.0/ref/ListyIterator.dll

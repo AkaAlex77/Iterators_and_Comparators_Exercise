@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/bin/Debug/net6.0/CustomComparator
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/bin/Debug/net6.0/CustomComparator.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/bin/Debug/net6.0/CustomComparator.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/bin/Debug/net6.0/CustomComparator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/bin/Debug/net6.0/CustomComparator.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/refint/CustomComparator.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/CustomComparator.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/CustomComparator/obj/Debug/net6.0/ref/CustomComparator.dll

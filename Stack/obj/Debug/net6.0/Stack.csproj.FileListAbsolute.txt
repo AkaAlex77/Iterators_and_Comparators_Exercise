@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/bin/Debug/net6.0/Stack
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/bin/Debug/net6.0/Stack.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/bin/Debug/net6.0/Stack.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/bin/Debug/net6.0/Stack.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/bin/Debug/net6.0/Stack.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/refint/Stack.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/Stack.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Stack/obj/Debug/net6.0/ref/Stack.dll

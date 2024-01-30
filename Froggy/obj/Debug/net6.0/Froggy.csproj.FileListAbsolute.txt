@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/bin/Debug/net6.0/Froggy
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/bin/Debug/net6.0/Froggy.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/bin/Debug/net6.0/Froggy.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/bin/Debug/net6.0/Froggy.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/bin/Debug/net6.0/Froggy.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/refint/Froggy.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/Froggy.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/Froggy/obj/Debug/net6.0/ref/Froggy.dll

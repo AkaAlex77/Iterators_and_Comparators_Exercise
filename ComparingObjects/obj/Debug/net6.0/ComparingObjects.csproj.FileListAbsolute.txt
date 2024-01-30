@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/bin/Debug/net6.0/ComparingObjects
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/bin/Debug/net6.0/ComparingObjects.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/bin/Debug/net6.0/ComparingObjects.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/bin/Debug/net6.0/ComparingObjects.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/bin/Debug/net6.0/ComparingObjects.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/refint/ComparingObjects.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ComparingObjects.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Iterators_and_Comparators_Exercise/ComparingObjects/obj/Debug/net6.0/ref/ComparingObjects.dll

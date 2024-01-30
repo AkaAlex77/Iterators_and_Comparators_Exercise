@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{70DD0C55-D0C7-4BEB-83F2-EAAFCD2F850F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomComparator/Program.cs">
+    <Files>
+      <File FileName="CustomComparator/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterators_and_Comparators_Exercise" expanded="True">
+            <Node name="CustomComparator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Iterators__and__Comparators__Exercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
